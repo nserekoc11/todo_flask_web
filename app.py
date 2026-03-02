@@ -1,3 +1,4 @@
+#To_do list app with flask and sqlite(web version of the TODO.py)
 from flask import Flask, render_template, request,redirect
 import sqlite3
 
